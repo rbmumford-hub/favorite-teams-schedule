@@ -1,0 +1,120 @@
+[
+  {
+    "id": "team-seahawks",
+    "name": "Seattle Seahawks",
+    "group": "NFL",
+    "provider": "football/nfl",
+    "code": "sea"
+  },
+  {
+    "id": "team-mariners",
+    "name": "Seattle Mariners",
+    "group": "MLB",
+    "provider": "baseball/mlb",
+    "code": "sea"
+  },
+  {
+    "id": "team-kraken",
+    "name": "Seattle Kraken",
+    "group": "NHL",
+    "provider": "hockey/nhl",
+    "code": "sea"
+  },
+  {
+    "id": "team-torrent",
+    "name": "Seattle Torrent",
+    "group": "PWHL",
+    "provider": "torrent"
+  },
+  {
+    "id": "team-storm",
+    "name": "Seattle Storm",
+    "group": "WNBA",
+    "provider": "basketball/wnba",
+    "code": "sea"
+  },
+  {
+    "id": "team-reign",
+    "name": "Seattle Reign",
+    "group": "NWSL",
+    "provider": "soccer/usa.nwsl",
+    "code": "9723"
+  },
+  {
+    "id": "team-sounders",
+    "name": "Seattle Sounders",
+    "group": "MLS",
+    "provider": "soccer/usa.1",
+    "code": "9726"
+  },
+  {
+    "id": "team-football",
+    "name": "Washington Huskies Football",
+    "group": "Huskies",
+    "provider": "uw",
+    "code": "football"
+  },
+  {
+    "id": "team-mens-basketball",
+    "name": "Washington Huskies Men’s Basketball",
+    "group": "Huskies",
+    "provider": "uw",
+    "code": "mens-basketball"
+  },
+  {
+    "id": "team-womens-basketball",
+    "name": "Washington Huskies Women’s Basketball",
+    "group": "Huskies",
+    "provider": "uw",
+    "code": "womens-basketball"
+  },
+  {
+    "id": "team-mens-soccer",
+    "name": "Washington Huskies Men’s Soccer",
+    "group": "Huskies",
+    "provider": "uw",
+    "code": "mens-soccer"
+  },
+  {
+    "id": "team-womens-soccer",
+    "name": "Washington Huskies Women’s Soccer",
+    "group": "Huskies",
+    "provider": "uw",
+    "code": "womens-soccer"
+  },
+  {
+    "id": "team-volleyball",
+    "name": "Washington Huskies Volleyball",
+    "group": "Huskies",
+    "provider": "uw",
+    "code": "womens-volleyball"
+  },
+  {
+    "id": "team-baseball",
+    "name": "Washington Huskies Baseball",
+    "group": "Huskies",
+    "provider": "uw",
+    "code": "baseball"
+  },
+  {
+    "id": "team-softball",
+    "name": "Washington Huskies Softball",
+    "group": "Huskies",
+    "provider": "uw",
+    "code": "softball"
+  },
+  {
+    "id": "team-usmnt",
+    "name": "USMNT",
+    "group": "U.S. Soccer",
+    "provider": "soccer/fifa.friendly",
+    "code": "660"
+  },
+  {
+    "id": "team-uswnt",
+    "name": "USWNT",
+    "group": "U.S. Soccer",
+    "provider": "soccer/fifa.friendly.w",
+    "code": "2765"
+  }
+]

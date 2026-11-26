@@ -1,0 +1,27 @@
+* { box-sizing: border-box; }
+:root { font-family: "Segoe UI", sans-serif; color: #152c2a; background: #f3f6f4; }
+body { margin: 0; }
+.shell { width: min(100% - 2.5rem, 68rem); margin-inline: auto; }
+header { background: #102927; color: #f6faf4; padding: 3.2rem 0 2.7rem; border-bottom: .4rem solid #aee678; }
+.eyebrow { color: #bde997; font-size: .8rem; letter-spacing: .14em; text-transform: uppercase; font-weight: 700; }
+h1 { font-size: clamp(2.4rem, 7vw, 5rem); letter-spacing: -.06em; margin: .18em 0; line-height: 1; }
+#updated { color: #d0e2d9; }
+main { padding-block: 2rem 3rem; }
+.filters { display: flex; flex-wrap: wrap; gap: 1rem; }
+label { display: grid; gap: .4rem; font-weight: 650; font-size: .83rem; }
+select { font: inherit; color: inherit; background: #fff; padding: .65rem; border: 1px solid #899c94; border-radius: .42rem; max-width: 100%; }
+#summary { color: #455d55; }
+.day { margin: 1.8rem 0; }
+.day h2 { margin: 0 0 .65rem; font-size: 1.15rem; }
+.game { display: grid; grid-template-columns: 8rem 1.7fr 1fr; gap: 1rem; align-items: baseline; background: #fff; padding: 1rem 1.2rem; margin-bottom: .4rem; border: 1px solid #d5e0db; border-radius: .5rem; }
+.game strong { display: block; }
+.meta { color: #455d55; font-size: .88rem; }
+.clock { font-weight: 700; font-variant-numeric: tabular-nums; }
+details { border-top: 1px solid #c7d4ce; padding-top: 1rem; margin-top: 2rem; }
+summary { cursor: pointer; }
+a { color: #145947; }
+li { margin-block: .35rem; }
+@media (max-width: 38rem) {
+  .game { grid-template-columns: 1fr; gap: .4rem; }
+  header { padding-block: 2rem; }
+}
